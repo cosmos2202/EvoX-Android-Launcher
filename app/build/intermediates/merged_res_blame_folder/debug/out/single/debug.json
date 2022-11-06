@@ -1,0 +1,342 @@
+[
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_tab.xml.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable\\shape_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_help.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_help.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_move_up.xml.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable\\icon_move_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_help.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_help.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_folder.xml.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable\\icon_folder.xml"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_preferences.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_preferences.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_star.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_star.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_star.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_star.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_refresh.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu_preferences.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-ldpi\\ic_menu_preferences.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_preferences.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_preferences.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_release.xml.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\layout\\view_release.xml"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu_info_details.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-ldpi\\ic_menu_info_details.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_archive.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_archive.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_cut.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_cut.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_info_details.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_info_details.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_cut.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_cut.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_agenda.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_agenda.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu_upload.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-ldpi\\ic_menu_upload.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_gallery.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_reverse.xml.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\layout\\activity_main_reverse.xml"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu_refresh.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-ldpi\\ic_menu_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_preferences.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_preferences.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_search.xml.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable\\icon_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_color_picker.xml.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\layout\\dialog_color_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_info_details.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_info_details.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_info_details.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_info_details.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_move_down.xml.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable\\icon_move_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_star.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_star.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_export_import.xml.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\layout\\activity_export_import.xml"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_changelog.xml.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\layout\\dialog_changelog.xml"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_info_details.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_info_details.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_notification.xml.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable\\icon_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu_archive.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-ldpi\\ic_menu_archive.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_favorite.xml.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\layout\\view_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_star.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_star.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_cut.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_cut.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_refresh.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_agenda.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_agenda.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\xml_settings_operation.xml.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\xml\\settings_operation.xml"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_application.xml.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\layout\\view_application.xml"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_help.xml.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\layout\\dialog_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu_help.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-ldpi\\ic_menu_help.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu_gallery.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-ldpi\\ic_menu_gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_upload.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_upload.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable_alpha_grid.xml.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable\\alpha_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_upload.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_upload.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_tab_reverse.xml.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable\\shape_tab_reverse.xml"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_gallery.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\xml_settings_appearance.xml.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\xml\\settings_appearance.xml"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_menu.xml.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\layout\\dialog_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_help.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_help.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu_star.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-ldpi\\ic_menu_star.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_upload.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_upload.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu_cut.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-ldpi\\ic_menu_cut.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_agenda.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_agenda.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu_agenda.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-ldpi\\ic_menu_agenda.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_cut.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_cut.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_archive.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_archive.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_gallery.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_gallery.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_about.xml.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\layout\\dialog_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_folders.xml.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\layout\\activity_folders.xml"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_archive.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_archive.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_archive.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_archive.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_refresh.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_preferences.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_preferences.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_agenda.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_agenda.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_folder_editor.xml.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\layout\\view_folder_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_notification.xml.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\layout\\view_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_popup.xml.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\layout\\view_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_favorites.xml.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\layout\\activity_favorites.xml"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_refresh.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_upload.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_upload.png"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_help.png.flat",
+        "source": "C:\\Users\\cosmos\\Desktop\\EvoXLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_help.png"
+    }
+]

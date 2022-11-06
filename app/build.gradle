@@ -1,0 +1,51 @@
+// Apply the Android plugin to Gradle and make the "android" block available
+apply plugin: 'com.android.application'
+
+// Build options
+android
+{
+    // API level used to compile the application
+    compileSdkVersion 30
+    buildToolsVersion "30.0.2"
+
+    defaultConfig
+    {
+        // Application identifier
+        applicationId "com.vincent_falzon.discreetlauncher"
+
+        // Minimum API required and API used for compilation
+        minSdkVersion 21
+        targetSdkVersion 30
+
+        // Versioning
+        versionCode 54
+        versionName "v6.6.0"
+    }
+
+    // Build types always include debug (hidden by default)
+    buildTypes
+    {
+        debug
+        {
+            // Allow usage of the version name in XML
+            resValue "string", "app_version", "${defaultConfig.versionName}.dbg"
+        }
+        release
+        {
+            // Enable code shrinking, obfuscation and optimization to lower APK size
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+
+            // Allow usage of the version name in XML
+            resValue "string", "app_version", "${defaultConfig.versionName}"
+        }
+    }
+}
+
+// External requirements
+dependencies
+{
+    implementation 'androidx.appcompat:appcompat:1.3.1'
+    implementation 'androidx.recyclerview:recyclerview:1.2.1'
+    implementation 'androidx.preference:preference:1.1.1'
+}

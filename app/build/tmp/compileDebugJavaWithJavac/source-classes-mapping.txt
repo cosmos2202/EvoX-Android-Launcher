@@ -1,0 +1,124 @@
+com/vincent_falzon/discreetlauncher/settings/ActivitySettingsOperation.java
+ com.vincent_falzon.discreetlauncher.settings.ActivitySettingsOperation
+ com.vincent_falzon.discreetlauncher.settings.ActivitySettingsOperation$SettingsFragment
+com/vincent_falzon/discreetlauncher/Constants.java
+ com.vincent_falzon.discreetlauncher.Constants
+com/vincent_falzon/discreetlauncher/settings/ColorPickerPreference.java
+ com.vincent_falzon.discreetlauncher.settings.ColorPickerPreference
+com/vincent_falzon/discreetlauncher/events/ShortcutListener.java
+ com.vincent_falzon.discreetlauncher.events.ShortcutListener
+com/vincent_falzon/discreetlauncher/storage/InternalFile.java
+ com.vincent_falzon.discreetlauncher.storage.InternalFile
+ com.vincent_falzon.discreetlauncher.storage.InternalFile$1
+com/vincent_falzon/discreetlauncher/menu/DialogChangelog.java
+ com.vincent_falzon.discreetlauncher.menu.DialogChangelog
+ com.vincent_falzon.discreetlauncher.menu.DialogChangelog$1
+ com.vincent_falzon.discreetlauncher.menu.DialogChangelog$RecyclerAdapter
+ com.vincent_falzon.discreetlauncher.menu.DialogChangelog$RecyclerAdapter$ReleaseView
+com/vincent_falzon/discreetlauncher/settings/ActivitySettingsAppearance.java
+ com.vincent_falzon.discreetlauncher.settings.ActivitySettingsAppearance
+ com.vincent_falzon.discreetlauncher.settings.ActivitySettingsAppearance$SettingsFragment
+com/vincent_falzon/discreetlauncher/ActivityMain.java
+ com.vincent_falzon.discreetlauncher.ActivityMain
+ com.vincent_falzon.discreetlauncher.ActivityMain$GestureListener
+ com.vincent_falzon.discreetlauncher.ActivityMain$ScrollListener
+com/vincent_falzon/discreetlauncher/menu/ActivityFavorites.java
+ com.vincent_falzon.discreetlauncher.menu.ActivityFavorites
+ com.vincent_falzon.discreetlauncher.menu.ActivityFavorites$1
+ com.vincent_falzon.discreetlauncher.menu.ActivityFavorites$2
+ com.vincent_falzon.discreetlauncher.menu.ActivityFavorites$RecyclerAdapter
+ com.vincent_falzon.discreetlauncher.menu.ActivityFavorites$RecyclerAdapter$1
+ com.vincent_falzon.discreetlauncher.menu.ActivityFavorites$RecyclerAdapter$FavoriteView
+ com.vincent_falzon.discreetlauncher.menu.ActivityFavorites$TouchCallback
+com/vincent_falzon/discreetlauncher/quickaccess/ShortcutCreator.java
+ com.vincent_falzon.discreetlauncher.quickaccess.ShortcutCreator
+com/vincent_falzon/discreetlauncher/core/Application.java
+ com.vincent_falzon.discreetlauncher.core.Application
+com/vincent_falzon/discreetlauncher/quickaccess/NotificationDisplayer.java
+ com.vincent_falzon.discreetlauncher.quickaccess.NotificationDisplayer
+com/vincent_falzon/discreetlauncher/Utils.java
+ com.vincent_falzon.discreetlauncher.Utils
+com/vincent_falzon/discreetlauncher/core/Menu.java
+ com.vincent_falzon.discreetlauncher.core.Menu
+com/vincent_falzon/discreetlauncher/core/FolderIcon.java
+ com.vincent_falzon.discreetlauncher.core.FolderIcon
+com/vincent_falzon/discreetlauncher/menu/DialogHiddenApps.java
+ com.vincent_falzon.discreetlauncher.menu.DialogHiddenApps
+ com.vincent_falzon.discreetlauncher.menu.DialogHiddenApps$1
+ com.vincent_falzon.discreetlauncher.menu.DialogHiddenApps$2
+com/vincent_falzon/discreetlauncher/SearchAdapter.java
+ com.vincent_falzon.discreetlauncher.SearchAdapter
+ com.vincent_falzon.discreetlauncher.SearchAdapter$1
+com/vincent_falzon/discreetlauncher/ViewClock.java
+ com.vincent_falzon.discreetlauncher.ViewClock
+ com.vincent_falzon.discreetlauncher.ViewClock$1
+ com.vincent_falzon.discreetlauncher.ViewClock$MinuteListener
+com/vincent_falzon/discreetlauncher/quickaccess/PopupFavorites.java
+ com.vincent_falzon.discreetlauncher.quickaccess.PopupFavorites
+ com.vincent_falzon.discreetlauncher.quickaccess.PopupFavorites$1
+com/vincent_falzon/discreetlauncher/BuildConfig.java
+ com.vincent_falzon.discreetlauncher.BuildConfig
+com/vincent_falzon/discreetlauncher/menu/DialogMenu.java
+ com.vincent_falzon.discreetlauncher.menu.DialogMenu
+com/vincent_falzon/discreetlauncher/storage/InternalFilePNG.java
+ com.vincent_falzon.discreetlauncher.storage.InternalFilePNG
+com/vincent_falzon/discreetlauncher/settings/ColorPickerView.java
+ com.vincent_falzon.discreetlauncher.settings.ColorPickerView
+ com.vincent_falzon.discreetlauncher.settings.ColorPickerView$ColorChangeListener
+com/vincent_falzon/discreetlauncher/settings/ActivityExportImport.java
+ com.vincent_falzon.discreetlauncher.settings.ActivityExportImport
+ com.vincent_falzon.discreetlauncher.settings.ActivityExportImport$1
+ com.vincent_falzon.discreetlauncher.settings.ActivityExportImport$2
+ com.vincent_falzon.discreetlauncher.settings.ActivityExportImport$ContractCreateTextDocument
+com/vincent_falzon/discreetlauncher/events/ShortcutLegacyListener.java
+ com.vincent_falzon.discreetlauncher.events.ShortcutLegacyListener
+com/vincent_falzon/discreetlauncher/core/IconPack.java
+ com.vincent_falzon.discreetlauncher.core.IconPack
+com/vincent_falzon/discreetlauncher/events/PackagesListener.java
+ com.vincent_falzon.discreetlauncher.events.PackagesListener
+com/vincent_falzon/discreetlauncher/core/Folder.java
+ com.vincent_falzon.discreetlauncher.core.Folder
+ com.vincent_falzon.discreetlauncher.core.Folder$1
+ com.vincent_falzon.discreetlauncher.core.Folder$2
+ com.vincent_falzon.discreetlauncher.core.Folder$PopupTouchListener
+com/vincent_falzon/discreetlauncher/core/Search.java
+ com.vincent_falzon.discreetlauncher.core.Search
+ com.vincent_falzon.discreetlauncher.core.Search$1
+ com.vincent_falzon.discreetlauncher.core.Search$PopupTouchListener
+ com.vincent_falzon.discreetlauncher.core.Search$TextChangeListener
+com/vincent_falzon/discreetlauncher/core/ApplicationsList.java
+ com.vincent_falzon.discreetlauncher.core.ApplicationsList
+ com.vincent_falzon.discreetlauncher.core.ApplicationsList$1
+ com.vincent_falzon.discreetlauncher.core.ApplicationsList$2
+ com.vincent_falzon.discreetlauncher.core.ApplicationsList$3
+ com.vincent_falzon.discreetlauncher.core.ApplicationsList$4
+com/vincent_falzon/discreetlauncher/FlexibleGridLayout.java
+ com.vincent_falzon.discreetlauncher.FlexibleGridLayout
+com/vincent_falzon/discreetlauncher/menu/ActivityFolders.java
+ com.vincent_falzon.discreetlauncher.menu.ActivityFolders
+ com.vincent_falzon.discreetlauncher.menu.ActivityFolders$FoldersListAdapter
+ com.vincent_falzon.discreetlauncher.menu.ActivityFolders$FoldersListAdapter$FolderView
+ com.vincent_falzon.discreetlauncher.menu.ActivityFolders$FoldersListAdapter$FolderView$1
+ com.vincent_falzon.discreetlauncher.menu.ActivityFolders$FoldersListAdapter$FolderView$2
+ com.vincent_falzon.discreetlauncher.menu.ActivityFolders$FoldersListAdapter$FolderView$3
+ com.vincent_falzon.discreetlauncher.menu.ActivityFolders$FoldersListAdapter$FolderView$4
+ com.vincent_falzon.discreetlauncher.menu.ActivityFolders$FoldersListAdapter$FolderView$5
+com/vincent_falzon/discreetlauncher/storage/InternalFileTXT.java
+ com.vincent_falzon.discreetlauncher.storage.InternalFileTXT
+com/vincent_falzon/discreetlauncher/storage/ExternalFile.java
+ com.vincent_falzon.discreetlauncher.storage.ExternalFile
+com/vincent_falzon/discreetlauncher/core/Shortcut.java
+ com.vincent_falzon.discreetlauncher.core.Shortcut
+com/vincent_falzon/discreetlauncher/RecyclerAdapter.java
+ com.vincent_falzon.discreetlauncher.RecyclerAdapter
+ com.vincent_falzon.discreetlauncher.RecyclerAdapter$ApplicationView
+ com.vincent_falzon.discreetlauncher.RecyclerAdapter$ApplicationView$1
+ com.vincent_falzon.discreetlauncher.RecyclerAdapter$ApplicationView$2
+ com.vincent_falzon.discreetlauncher.RecyclerAdapter$ApplicationView$3
+ com.vincent_falzon.discreetlauncher.RecyclerAdapter$ApplicationView$4
+ com.vincent_falzon.discreetlauncher.RecyclerAdapter$ApplicationView$5
+ com.vincent_falzon.discreetlauncher.RecyclerAdapter$ApplicationView$6
+com/vincent_falzon/discreetlauncher/settings/ColorPickerDialog.java
+ com.vincent_falzon.discreetlauncher.settings.ColorPickerDialog
+ com.vincent_falzon.discreetlauncher.settings.ColorPickerDialog$1
+ com.vincent_falzon.discreetlauncher.settings.ColorPickerDialog$SaveRequestListener

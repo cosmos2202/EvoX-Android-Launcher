@@ -1,0 +1,30 @@
+Discreet Launcher memberi Anda layar beranda bebas gangguan, memungkinkan Anda menikmati wallpaper sepenuhnya.
+
+Dari layar beranda yang bersih ini, cukup geser jari Anda ke bawah untuk menampilkan aplikasi favorit Anda, atau ke atas untuk melihat daftar lengkap aplikasi.
+
+Jika Anda menahan jari Anda beberapa saat pada suatu aplikasi, Anda akan ditawari untuk mengakses pengaturan sistemnya dan halamannya di app store.
+
+Discreet Launcher bersifat open source, tidak memerlukan izin yang tidak perlu, bekerja sepenuhnya offline dan tidak menyertakan iklan apa pun.
+
+1/ Fitur lainnya
+- Folder
+- Mencari
+- Ganti nama dan sembunyikan aplikasi
+- Notifikasi untuk akses ke favorit
+- Buka aplikasi dengan sapuan horizontal atau dobel-tap
+- Dukungan pintasan (aplikasi web)
+- Pengaturan ekspor dan impor
+- Bantuan dan changelog
+
+2/ Opsi penyesuaian
+- Tema dan warna
+- Orientasi paksa
+- Batang status transparan
+- Sembunyikan batang sistem (mode imersif)
+- Jam yang dapat disesuaikan
+- Target sentuh (aksesibilitas)
+- Selalu tampilkan favorit - Antarmuka terbalik
+- Sembunyikan tombol menu
+- Sembunyikan laci aplikasi
+- Sembunyikan nama aplikasi
+- Dukungan paket ikon

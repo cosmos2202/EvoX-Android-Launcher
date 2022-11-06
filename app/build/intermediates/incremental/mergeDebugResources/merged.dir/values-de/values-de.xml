@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="set_application_theme_entries">
+        <item>Hell</item>
+        <item>Dunkel</item>
+        <item>System Vorgabe</item>
+    </string-array>
+    <string-array name="set_clock_format_entries">
+        <item>Keins (ausblenden)</item>
+        <item>24-Stunden-Zählung</item>
+        <item>12-Stunden-Zählung</item>
+        <item>2-mal-12-Stunden-Zählung</item>
+        <item>Analog</item>
+        <item>Datum und Uhrzeit</item>
+        <item>Vollständiges Datum und Uhrzeit</item>
+    </string-array>
+    <string-array name="set_clock_position_entries">
+        <item>Oben</item>
+        <item>"Oben  -  Links"</item>
+        <item>"Oben  -  Rechts"</item>
+        <item>Mitte</item>
+        <item>"Mitte  -  Links"</item>
+        <item>"Mitte  -  Rechts"</item>
+        <item>Unten</item>
+        <item>"Unten  -  Links"</item>
+        <item>"Unten  -  Rechts"</item>
+    </string-array>
+    <string-array name="set_clock_size_entries">
+        <item>Klein</item>
+        <item>Mittel</item>
+        <item>Groß</item>
+    </string-array>
+    <string-array name="set_forced_orientation_entries">
+        <item>Keine</item>
+        <item>Hochformat</item>
+        <item>Querformat</item>
+        <item>Querformat umkehren</item>
+    </string-array>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Zur Startseite"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Nach oben"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Weitere Optionen"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Fertig"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Alle anzeigen"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"App auswählen"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"AUS"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"AN"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Strg +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Löschen"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Eingabetaste"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funktionstaste +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta-Taste +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Umschalttaste +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Leertaste"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym-Taste +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menütaste +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Suchen…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Suchanfrage löschen"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Suchanfrage"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Suche"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Anfrage senden"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Sprachsuche"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Teilen mit"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Mit <ns1:g id="APPLICATION_NAME">%s</ns1:g> teilen"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Minimieren"</string>
+    <string name="app_name">Discreet App-Starter</string>
+    <string name="appearance_settings_title_clock">Uhr</string>
+    <string name="appearance_settings_title_icon_packs">Symbolpakete</string>
+    <string name="appearance_settings_title_theme_and_colors">Design und Farben</string>
+    <string name="author">Vincent Falzon</string>
+    <string name="button_apply">Bestätigen</string>
+    <string name="button_cancel">Abbrechen</string>
+    <string name="button_close">Schließen</string>
+    <string name="button_export">Export</string>
+    <string name="button_import">Import</string>
+    <string name="button_new_folder">Hinzufügen</string>
+    <string name="button_remove_folder">Entfernen</string>
+    <string name="button_select_favorites">Favoriten wählen</string>
+    <string name="changelog_folder">changelog-en</string>
+    <string name="changelog_mentions">\"@pseudo\" gibt den Benutzer an, der die Idee vorgeschlagen oder den Fehler gemeldet hat.</string>
+    <string name="color_picker_base">Basis:</string>
+    <string name="color_picker_preview">Vorschau</string>
+    <string name="color_picker_reset">Löschen</string>
+    <string msgid="3209159573327985035" name="copy">"Kopieren"</string>
+    <string name="error_always_show_favorites_not_safe">Favoriten entsperren, um Zugriff auf das Menü zu bekommen.</string>
+    <string name="error_app_not_found">\"%1$s\" konnte nicht gefunden werden</string>
+    <string name="error_changelog_missing_file">%1$s konnte nicht geöffnet werden</string>
+    <string name="error_changelog_missing_folder">Der Changelog Ordner konnte nicht gefunden werden</string>
+    <string name="error_disable_app_drawer_not_safe">Wiedereinführung der App Übersicht, um den Zugang zum Menü zu erhalten.</string>
+    <string name="error_export">Export Datei konnte nicht erstellt werden</string>
+    <string name="error_folder_already_exists">Verwende einen Namen der nicht bereits existiert</string>
+    <string name="error_folder_empty_name">Vergebe zuerst einen Namen</string>
+    <string name="error_folder_rename">Ordner konnte nicht umbenannt werden</string>
+    <string name="error_icon_pack_appfilter_not_found">Die Datei appfilter.xml konnte im ausgewählten Symbolpaket nicht gefunden werden. (%1$s)</string>
+    <string name="error_import">Import Datei konnte nicht gelesen werden</string>
+    <string name="error_invalid_color_format">Ungültige hexadezimale Farbe</string>
+    <string name="error_no_icon_pack_installed">Installiere zunächst einige über Deinen App Store</string>
+    <string name="error_shortcut_invalid_request">Konnte nicht als Verknüpfung hinzugefügt werden</string>
+    <string name="error_shortcut_missing_info">Verknüpfung kann nicht gefolgt werden</string>
+    <string name="error_shortcut_not_default_launcher">Nur das Standard-Startprogramm kann Verknüpfungen öffnen</string>
+    <string name="error_shortcut_remove">Die Datei \"%1$s\" konnte nicht gespeichert werden</string>
+    <string name="error_shortcut_start">Das Android System kann die Verknüpfung nicht öffnen</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Erweitert"</string>
+    <string name="export_completed">Export komplett</string>
+    <string name="export_import_header_icons">Gesicherte Icons</string>
+    <string name="export_import_header_internal_files">Inhalt der internen Textdateien</string>
+    <string name="export_import_header_settings">Einstellungen</string>
+    <string name="export_import_help">Über die Button können die App-Daten (Favoriten, Ordner, Verknüpfungen und Einstellungen) exportiert oder wieder importiert werden.</string>
+    <string name="export_import_warning_file_edit">Die Bearbeitung dieser Datei kann zu Problemen führen</string>
+    <string name="export_import_warning_shortcuts">
+        (Unter Android 8 (Oreo) und höher funktionieren importierte Verknüpfungen möglicherweise nicht
+        weil sie vom System verwaltet werden und nicht exportiert werden sollen)
+    </string>
+    <string name="favorite_move_after">Verschiebe nach \"%1$s\"</string>
+    <string name="favorite_move_before">Verschiebe vor \"%1$s\"</string>
+    <string name="help_folders">
+        Verwalte Ordner oder Favoriten über die Menütaste, oder klicke auf den Titel eines geöffneten Ordners
+        um Anwendungen zu erstellen, umzubenennen und darin abzulegen.
+        \nBeim Entfernen von Ordnern werden alle darin enthaltenen Anwendungen wieder in die Hauptliste aufgenommen.
+    </string>
+    <string name="help_folders_title">Ordner</string>
+    <string name="help_list_update">
+        Beim Aktualisieren der App-Liste und der Symbole wird eine Pop-up-Nachricht angezeigt,
+        beim Starten, Hinzufügen oder Entfernen von Anwendungen oder wenn das Symbolpaket geändert wird.
+    </string>
+    <string name="help_list_update_title">Listen Aktualisierung</string>
+    <string name="help_navigation">
+        Wisch auf dem Startbildschirm nach oben, um alle Apps anzuzeigen, und nach unten, um zurückzugehen.
+        \n
+        \nWisch auf dem Startbildschirm nach unten, um die Favoriten anzuzeigen, und nach oben, um zurückzugehen.
+        \n
+        \nKlick auf die Menüschaltfläche (wenn die Favoriten angezeigt werden) oder das Startsymbol, um das Menü zu öffnen.
+        \n
+        \nHalte eine Anwendung oder einen Ordner lange gedrückt, um die Einstellungen aufzurufen.
+    </string>
+    <string name="help_navigation_title">Navigation</string>
+    <string name="help_notification">
+        Zeigt beim verlassen des Startbildschirms ein Pop-up der Favoriten über anderen Anwendungen an.
+    </string>
+    <string name="help_notification_title">Hinweise</string>
+    <string name="help_search">
+        Finde alle Apps über das Such-Icon. Kann auch als Favorit gesetzt werden, um 
+        in der Benachrichtigung verfügbar zu sein oder versteckte Apps zu finden.
+        \n
+        \nDurch Drücken von \"Enter\" wird das erste Suchergebnis geöffnet.
+    </string>
+    <string name="help_search_title">Suche</string>
+    <string name="hint_folder_edit">
+        Klicke auf einen Ordnernamen, um ihn zu ändern und auf das Symbol, um seine Farbe zu wählen.
+        Über das Stiftsymbol kann der Inhalt des Ordners bearbeitet werden.
+    </string>
+    <string name="hint_folders_number">Erstelle so viele Ordner wie du willst, um deine Apps zu organisieren.</string>
+    <string name="hint_modify_order_of_favorites">Ändere die Reihenfolge der Favoriten in der Liste (verwende den Bildlauf zum Scrollen).</string>
+    <string name="hint_new_folder">Neuer Ordner</string>
+    <string name="hint_no_favorites_yet">Füge Favoriten Apps hinzu\ndurch Klicken des Menü Buttons.</string>
+    <string name="hint_remove_folder">Wenn ein Ordner entfernt wird, wird sein Inhalt wieder in die Liste der Hauptanwendungen aufgenommen.</string>
+    <string name="hint_rename_folder">Ordner umbenennen</string>
+    <string name="info_display_partially_updated">Die Anzeige wird nach der Rückkehr zum Startbildschirm vollständig aktualisiert</string>
+    <string name="info_favorites_refreshed">Favoriten aktualisiert</string>
+    <string name="info_list_apps_refreshed">App-Liste aktualisiert</string>
+    <string name="licence_name">GNU General Public License v3.0</string>
+    <string name="license_link">https://gnu.org/licenses/gpl-3.0.txt</string>
+    <string name="long_click_add_favorites">Zu Favoriten hinzufügen</string>
+    <string name="long_click_add_folder">Einem Ordner hinzufügen</string>
+    <string name="long_click_dialog_title">Bitte wähle aus!</string>
+    <string name="long_click_hide_search">Ausblenden</string>
+    <string name="long_click_open">Öffne \"%1$s\"</string>
+    <string name="long_click_remove_favorites">Aus Favoriten entfernen</string>
+    <string name="long_click_remove_folder">Aus Ordner entfernen \"%1$s\"</string>
+    <string name="long_click_remove_shortcut">Verknüpfung entfernen</string>
+    <string name="long_click_rename">Umbenennen</string>
+    <string name="long_click_settings">Zugang zu Einstellungen</string>
+    <string name="long_click_view_store">Store Seite anzeigen</string>
+    <string name="menu">Menü</string>
+    <string name="menu_about">Über</string>
+    <string name="menu_changelog">Changelog</string>
+    <string name="menu_export_import">Export und Import</string>
+    <string name="menu_favorites">Favoriten</string>
+    <string name="menu_folders">Ordner</string>
+    <string name="menu_help">Hilfe</string>
+    <string name="menu_hidden_apps">Versteckte Apps</string>
+    <string name="menu_refresh_list_apps">App-Liste aktualisieren</string>
+    <string name="menu_settings_appearance">Erscheinungsbild</string>
+    <string name="menu_settings_operation">Darstellung</string>
+    <string msgid="478774118347071097" name="not_set">"Nicht festgelegt"</string>
+    <string name="notification_text">Favoriten</string>
+    <string name="operation_settings_title_gestures">Startbildschirm-Gesten</string>
+    <string name="operation_settings_title_interface">Schnittstelle</string>
+    <string msgid="7961817945132860002" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" in Zwischenablage kopiert."</string>
+    <string name="search_app_hint">Suche nach Apps</string>
+    <string name="search_app_name">Suche</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Suche"</string>
+    <string name="set_always_show_favorites">Favoritenleiste immer anzeigen</string>
+    <string name="set_application_theme">Design</string>
+    <string name="set_background_color_drawer">Hintergrund der App Übersicht</string>
+    <string name="set_background_color_favorites">Favoriten-Hintergrund</string>
+    <string name="set_clock_color">Farbe der Uhr</string>
+    <string name="set_clock_format">Uhrzeit Format</string>
+    <string name="set_clock_position">Uhr Position</string>
+    <string name="set_clock_shadow_color">Farbe des Textschattens</string>
+    <string name="set_clock_size">Größe der Uhr</string>
+    <string name="set_dark_status_bar_icons">Dunkle Statusleisten-Symbole</string>
+    <string name="set_dark_status_bar_icons_help">Funktioniert nicht unter Android 5 (Lollipop)</string>
+    <string name="set_disable_app_drawer">App Übersicht nicht anzeigen</string>
+    <string name="set_double_tap">Doppeltippen</string>
+    <string name="set_forced_orientation">Bildschirmausrichtung</string>
+    <string name="set_hide_app_names">Keine App Bezeichnungen</string>
+    <string name="set_hide_folder_names">Keine Ordnernamen</string>
+    <string name="set_hide_menu_button">Kein Menü-Icon</string>
+    <string name="set_hide_menu_button_help">Immer über das Symbol der Startanwendung zugänglich</string>
+    <string name="set_icon_color_filter">Farbfilter für Symbole</string>
+    <string name="set_icon_color_filter_help">Gilt nur für Standardsymbole, kann zusätzlich zu Symbolpaketen verwendet werden</string>
+    <string name="set_icon_pack_none">Keins (Standard-Symbole verwenden)</string>
+    <string name="set_icon_pack_primary">Erstrangig</string>
+    <string name="set_icon_pack_secondary">Zweitrangig</string>
+    <string name="set_immersive_mode">Immersiver Modus</string>
+    <string name="set_immersive_mode_help">Keine Systemleiste. (Kann durch langes Drücken auf den Startbildschirm erzwungen werden).</string>
+    <string name="set_interactive_clock">Interaktive Uhr</string>
+    <string name="set_interactive_clock_help">Auf das Datum klicken, um die Kalender-App zu öffnen und die Uhrzeit anklicken, um die Uhr-App zu öffnen.</string>
+    <string name="set_no_action">Keine Aktion</string>
+    <string name="set_notification">Benachrichtigung für Zugriff auf Favoriten</string>
+    <string name="set_notification_help">Verwendet ein transparentes Icon</string>
+    <string name="set_remove_padding">Kein Innenabstand wenn App-Namen versteckt sind</string>
+    <string name="set_reverse_interface">Umgekehrte Oberfläche</string>
+    <string name="set_reverse_interface_help">Apps oberhalb und Favoriten unterhalb des Startbildschirms.</string>
+    <string name="set_swipe_leftwards">Nach links wischen</string>
+    <string name="set_swipe_rightwards">Nach rechts wischen</string>
+    <string name="set_text_color_drawer">Text der App Übersicht</string>
+    <string name="set_text_color_favorites">Favoriten Text</string>
+    <string name="set_touch_targets">Berührungsziele (Barrierefreiheit)</string>
+    <string name="set_touch_targets_help">Label-Buttons auf dem Startbildschirm</string>
+    <string name="set_transparent_status_bar">Transparente Systemleiste</string>
+    <string name="set_transparent_status_bar_help">Wenn Favoriten geschlossen sind</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="target_close_favorites">Favoriten\nschließen</string>
+    <string name="target_open_applications">Apps\nöffnen</string>
+    <string name="target_open_favorites">Favoriten\nöffnen</string>
+    <string name="translation_credit">(Deutsche Übersetzung von tuch96 (Marc))</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"AUS"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"AN"</string>
+    <string name="website_description">Verbesserungsvorschläge, mögliche Fehler und zur Unterstützung des Projekts, bitte die folgende Webseite nutzen</string>
+    <string name="website_link">https://vincent-falzon.com</string>
+</resources>

@@ -1,0 +1,31 @@
+Discreet Launcher bietet Dir einen ablenkungsfreien Startbildschirm, so dass Du Dein Hintergrundbild in vollen Zügen genießen kannst.
+
+Wische auf diesem übersichtlichen Startbildschirm einfach mit dem Finger nach unten, um Deine bevorzugten Anwendungen anzuzeigen, oder nach oben, um die vollständige Liste der Anwendungen zu sehen.
+
+Wenn Du Deinen Finger einige Augenblicke auf einer Anwendung belässt, kannst Du über ein Menü auf die Systemeinstellungen und die Seite im Store zugreifen.
+
+Discreet Launcher ist Open Source , erfordert keine unnötigen Berechtigungen, funktioniert vollständig offline und enthält keine Werbung.
+
+1/ Weitere Funktionen
+- Verzeichnisse
+- Suchen
+- Umbenennen und Ausblenden von Anwendungen
+- Benachrichtigung für den Zugriff auf Favoriten
+- Horizontales Wischen oder Doppeltippen zum Öffnen einer App
+- Unterstützung von Shortcuts (Web-Apps)
+- Einstellungen exportieren und importieren
+- Hilfe und Änderungsprotokoll
+
+2/ Anpassungsmöglichkeiten
+- Thema und Farben
+- Erzwungene Ausrichtung
+- Transparente Statusleiste
+- Keine Systemleisten (immersiver Modus)
+- Anpassbare Uhr
+- Touch-Ziele (Barrierefreiheit)
+- Favoriten immer anzeigen
+- Umgekehrte Schnittstelle
+- Keine Menütaste
+- Keine App-Schublade
+- Keine App-Namen
+- Unterstützung von Symbolpakete

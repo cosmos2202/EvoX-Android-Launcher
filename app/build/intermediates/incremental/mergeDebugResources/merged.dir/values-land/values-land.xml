@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <dimen name="abc_action_bar_default_height_material">48dp</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">12dp</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">14dp</dimen>
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+
+        <!-- Main colors -->
+        <item name="colorPrimary">@color/for_action_bar</item>
+        <item name="colorPrimaryDark">@color/for_system_bars</item>
+        <item name="colorAccent">@color/for_buttons_and_controls</item>
+
+        <!-- Do not use notch in landscape mode as it cause a display glitch -->
+        <item name="android:windowLayoutInDisplayCutoutMode" ns1:targetApi="o_mr1">never</item>
+
+    </style>
+</resources>
